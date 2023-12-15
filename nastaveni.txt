@@ -1,0 +1,15 @@
+# 3D tisk nastavení
+
+## Tiskárna Průša MINI
+
+* kalibrace první vrstvy -1300 - -1350
+
+## Filament Prusament PETG
+
+* Předhřát na PETG
+* Všechno tisknout na 30% chlazení
+* Teplota 250 stupňů od první vrstvy
+* Podložka 90 stupňů od první vrstvy
+
+## Prusament PLA
+* Nastavení v Prusa Slicer jsou ok.
